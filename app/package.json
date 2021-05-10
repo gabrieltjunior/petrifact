@@ -1,0 +1,21 @@
+{
+  "name": "petrifact",
+  "productName": "PetriFact",
+  "version": "1.0.0",
+  "description": "PetriFact is a tool for modeling and controlling external systems built within FlexFact",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Gabriel Tiburski Júnior",
+    "email": "gabrieltjunior@hotmail.com",
+    "url": "https://github.com/gabrieltjunior"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../internals/scripts/BabelRegister.js ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/uuid": "^8.3.0"
+  }
+}
