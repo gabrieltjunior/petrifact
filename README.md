@@ -4,7 +4,7 @@ PetriFact is a tool for modeling and controlling external systems built within [
 
 ### Download
 
-- Link to downloads here \*
+https://github.com/gabrieltjunior/petrifact/releases
 
 ### Usage
 
