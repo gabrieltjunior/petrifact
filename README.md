@@ -30,6 +30,8 @@ cd petrifact
 yarn
 ```
 
+You might need to run `npm install` as well for now, this should be fixed on the next version
+
 #### Starting Development
 
 Start the app in the `dev` environment. This starts the renderer process in [**hot-module-replacement**](https://webpack.js.org/guides/hmr-react/) mode and starts a webpack dev server that sends hot updates to the renderer process:
