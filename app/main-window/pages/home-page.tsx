@@ -58,7 +58,7 @@ export const HomePage = () => {
         >
           Create Project
         </Button>
-        <Button
+        {/* <Button
           type="button"
           fullWidth
           variant="contained"
@@ -66,7 +66,7 @@ export const HomePage = () => {
           className={classes.submit}
         >
           Open Project
-        </Button>
+        </Button> */}
       </div>
     </Container>
   );

@@ -1,7 +1,7 @@
 {
   "name": "petrifact",
   "productName": "PetriFact",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "PetriFact is a tool for modeling and controlling external systems built within FlexFact",
   "main": "./main.prod.js",
   "author": {
